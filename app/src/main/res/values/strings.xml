@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ScanerQR</string>
+    <string name="qr_scan_code">qr_scan_code</string>
+    <string name="nama">nama</string>
+    <string name="yuyun_fatimah">yuyun_fatimah</string>
+    <string name="kelas">kelas</string>
+    <string name="ti_21_c_2">ti_21_c_2</string>
+    <string name="nim">nim</string>
+    <string name="_312110216">_312110216</string>
+    <string name="yuyun_fatimah1">Yuyun Fatimah</string>
+    <string name="ti_21_c21">TI 21 C2</string>
+    <string name="_3121102161">312110216</string>
+</resources>
